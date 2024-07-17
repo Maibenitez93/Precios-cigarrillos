@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/precios-cigarrillos/static/css/main.7629346d.css",
+    "main.js": "/precios-cigarrillos/static/js/main.f58d6e53.js",
+    "static/js/453.e257199b.chunk.js": "/precios-cigarrillos/static/js/453.e257199b.chunk.js",
+    "static/media/Fondo de la web.jpg": "/precios-cigarrillos/static/media/Fondo de la web.ee7d67824f3236536d95.jpg",
+    "static/media/Fondo para cartel de bienvenida.jpg": "/precios-cigarrillos/static/media/Fondo para cartel de bienvenida.e3a063e0cf6a4e4a67c8.jpg",
+    "index.html": "/precios-cigarrillos/index.html",
+    "main.7629346d.css.map": "/precios-cigarrillos/static/css/main.7629346d.css.map",
+    "main.f58d6e53.js.map": "/precios-cigarrillos/static/js/main.f58d6e53.js.map",
+    "453.e257199b.chunk.js.map": "/precios-cigarrillos/static/js/453.e257199b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7629346d.css",
+    "static/js/main.f58d6e53.js"
+  ]
+}
